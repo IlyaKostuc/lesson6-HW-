@@ -52,6 +52,7 @@ print("-------------------------------------------------")
 //.sort
 var arrayNumber = [4, 1, 9, 7, 6, 3]
 arrayNumber.sort()
+var ff = ""
 
 //.sorted
 var arrayNuumber =  [4, 1, 9, 7, 6, 3]
